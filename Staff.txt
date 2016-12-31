@@ -1,0 +1,5 @@
+Jason	1	Student	Foundation in IT	011-1070 5798	FCI	9
+Kelvin	2008	Manager	Master	012-505 7438	FOM	9
+Adam	754	Student	Part Time	05-409 7920	FCM	10
+Nick	1142701655	Student	BCS	011-1055 5389	FCI	10
+Jeff	1142607720	Student	Master of CS	012-250 7540	FOE	10
